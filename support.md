@@ -37,7 +37,7 @@ You can delete packing lists and wallet documents in the app. You can delete all
 
 ## Privacy
 
-Read the [Privacy Policy](https://github.com/aj-fischer/packed-privacy-and-support/blob/main/privacy.md).
+Read the [Privacy Policy](privacy).
 
 ## App Information
 
