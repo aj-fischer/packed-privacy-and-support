@@ -1,6 +1,6 @@
-# Packed
+# PackMate
 
-Packed is a local-first iOS packing app for planning trips, generating packing lists, tracking packing progress, and storing travel documents in an optional in-app wallet.
+PackMate is a local-first iOS packing app for planning trips, generating packing lists, tracking packing progress, and storing travel documents in an optional in-app wallet.
 
 - [Privacy Policy](privacy)
 - [Support](support)
