@@ -18,9 +18,9 @@ Wallet document files are stored in the app's private storage using iOS file pro
 
 ## Optional Weather Data
 
-PackMate can show city-specific weather near departure. If you add a weather city and the trip is close to departure, PackMate may use Apple Weather to request weather data for that city and country.
+PackMate can show city-specific weather near departure. If you add a weather city and the trip is close to departure, PackMate may use Apple Weather or Open-Meteo to request weather data for that city and country.
 
-Apple Weather is used only for weather lookup. PackMate does not send your packing lists, wallet documents, or personal preferences to Apple Weather.
+Apple Weather and Open-Meteo are used only for weather lookup. PackMate does not send your packing lists, wallet documents, or personal preferences to Apple Weather or Open-Meteo.
 
 If city weather cannot be loaded, PackMate falls back to bundled country-level seasonal guidance.
 
